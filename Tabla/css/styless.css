@@ -1,0 +1,13 @@
+#nombre{
+    border: 2px solid rgba(65, 111, 211, 0.959);
+    border-collapse: color rgb(235, 22, 22) ;
+}
+thead tr, th, td {
+    background-color : rgb(184, 207, 236) ;
+    border: 2px groove rgb(138, 163, 122);
+}
+
+#body{
+    background-color: rgb(189, 212, 250);
+    top: 2px rgb(21, 207, 52);
+}
